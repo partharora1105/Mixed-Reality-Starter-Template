@@ -1,6 +1,6 @@
 # Mixed-Reality-Starter-Template
 
-This is a Mixed-Reality-Starter-Template, compatible with both Meta and Apple headsets. It provides starter templates tailored for these platforms, featuring specific functionality and assets. All projects are built on Unity, ensuring seamless cross-platform compatibility, and employ C# as the scripting language. 
+This is a Mixed-Reality-Starter-Template, compatible with both Meta and Apple headsets. It provides starter templates tailored for these platforms, featuring specific functionality and assets. All projects are built on Unity, ensuring seamless cross-platform compatibility, and employ C# as the scripting language.  The current template comes with passthrough and hand tracking support.
 
 Last Updated: June 27, 2022 
 
