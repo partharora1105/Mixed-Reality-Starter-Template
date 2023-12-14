@@ -13,7 +13,7 @@ Using the following steps, you can set up the project on your machine and run it
 
 - Clone/Download the Project Repository.
 - Install Unity Hub for your machine from official [Unity Site](https://unity.com/download).
-- Choose Unity Version - 2022.3.2f1 and add “Android Build Support” (You can skip this step as well and do it in next to next step)
+- Choose Unity Version - 2022.3.2f1 and add “Android Build Support” (You can skip this step as well and do it in next to next step).
 - Now, click on open under projects and navigate to the downloaded project repository.
   Unity might prompt you by saying that you do not have the correct version of Unity. Make sure you download the required version with  “Android Build Support”.
 - Now once you are in Unity, from the top bar, navigate to File> Build Settings > Android
